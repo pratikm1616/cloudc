@@ -1,0 +1,1 @@
+print("Pratik is good Boy")
